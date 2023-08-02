@@ -1,4 +1,4 @@
-<h1 align="center"> Cartão de visitas online </h1>
+<h1 align="center"> CARTÃO DE VISITAS ONLINE </h1>
 
 <p align="center">
 Projeto promovido com dicas da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> para ensino de tecnologias WEB. 
